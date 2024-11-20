@@ -1,0 +1,15 @@
+InventorySystem:
+
+6 - Large class - Too many responsibility
+6 - Poor naming - not follwing the naming rule
+80, 84, 85, 87, 91, 92, 93 - Magic number - use of hard code in percentage, bulk, seasonal
+10,23, 32 - nested class
+74, 104 - Duplicated code
+
+
+
+InventoryManagementSystem:
+11,12,15,16,17 - Magic number
+
+Warehouse:
+8 - poor naming
