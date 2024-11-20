@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9c86445-17e8-4fd1-a150-57f5092d20a5" name="Changes" comment="" />
+    <list default="true" id="c9c86445-17e8-4fd1-a150-57f5092d20a5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/MintChocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MintChocolateChip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OrderTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +36,7 @@
   "keyToString": {
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.OrderTest.executor": "Run",
+    "JUnit.OrderTest.testEmptyOrder.executor": "Run",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
     "Repository.Attach.Sources": "false",
@@ -81,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732091220466</updated>
-      <workItem from="1732091221550" duration="4512000" />
+      <workItem from="1732091221550" duration="4908000" />
     </task>
     <servers />
   </component>

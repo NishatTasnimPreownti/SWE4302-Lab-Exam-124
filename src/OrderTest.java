@@ -25,4 +25,13 @@ public class OrderTest {
         assertEquals(0.00, order.calculateTax(), 0.01);
         assertEquals(0.00, order.calculateTotal(), 0.01);
     }
+
+    @Test
+    public void testOrderCalculation() {
+        Order order = new Order(true); 
+        order.addFlavor(new MintChocolateChip());
+        order.addTopping(new Sprinkles());
+
+        assertEquals(8.23, order.calculateTotal(), 0.01);
+    }
 }

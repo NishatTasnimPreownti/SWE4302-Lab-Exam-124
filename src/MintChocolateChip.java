@@ -1,4 +1,4 @@
-public class MintChocolate implements IceCreamFlavor{
+public class MintChocolateChip implements IceCreamFlavor{
     @Override
     public String getName() {
         return "Mint Chocolate Chip";
